@@ -1,0 +1,140 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+a{
+	text-decoration: none;
+}
+.tou{
+	width: 100%;
+	height: 100px;
+	background: #fff;
+}
+.touz{
+	width: 50%;
+	height: 100px;
+	background: #fff;
+	float: left;
+}
+.touz1{
+	width:379px;
+	height: 100px;
+
+	float:right;
+}
+.touy{
+	width: 50%;
+	height: 100px;
+	background: #fff;
+	float: left;
+}
+.touy1{
+	width:400px;
+	height: 100px;
+	
+	float:right;
+	padding-top:35px ;
+	box-sizing: border-box;
+}
+.touz1 p{
+	font-size:20px ;
+	color:#333 ;
+	border-left:2px solid #e3dddd ;
+	box-sizing: border-box;
+	padding-left: 15px;
+	margin-top: 35px;
+}
+.touy1 a{
+	font-size:12px ;
+	color: ;
+
+}
+.dl{
+	width: 100%;
+	height:423px; 
+	position: relative;
+
+} 
+.dl img{
+	width: 100%;
+	height:423px; 
+
+}
+.dly{
+	width:400px;
+	height: 323px;
+	background: rgba(255, 255, 255, 0.5);
+	position: absolute;
+	top:50px ;
+	left:380px ;
+	padding: 30px;
+	box-sizing: border-box;
+}
+.dly input{
+	width:340px; 
+	height:43px; 
+	background: ;
+	outline: none;
+	padding-left: 10px;
+	box-sizing: border-box;
+
+}
+.dly input:first-child{
+	margin-bottom: 15px;
+}
+.wj{
+	width:340px; 
+	height:50px; 
+}
+.wj1{
+	width:70px; 
+	height:50px;
+	float: right; 
+}
+.wj1 a{
+	font-size:12px ;
+	line-height: 50px;
+}
+.wj1 a:hover{
+	text-decoration:underline;
+}
+.delu{
+	width:340px; 
+	height:43px; 
+	background:#337ab7 ;
+	outline: none;
+	font-size: 17px;
+	color:#fff ;
+	text-align: center;
+	line-height: 43px;
+	border: none;
+	cursor: pointer;
+	margin-bottom: 15px;
+}
+.delu1{
+	width:340px; 
+	height:43px; 
+	background:#5bc0de;
+	outline: none;
+	font-size:17px;
+	color:#fff ;
+	text-align: center;
+	line-height: 43px;
+	border: none;
+	cursor: pointer;
+}
+.delu:hover{
+	background:#286090 ;
+}
+.delu1:hover{
+	background:#31b0d5 ;
+}
+.w{
+	width: 100%;
+	height:83px ;
+	font-size:12px ;
+	color:#778cbf ;
+	text-align: center;
+	line-height: 83px;
+}
